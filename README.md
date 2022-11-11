@@ -34,6 +34,6 @@
   
 The last step is to visit the [Active Developer Page](https://discord.com/developers/active-developer) and claim your Badge! (Allow up to 24hr proccessing time after you ran the command to be eligible.)
   
- ## Enjoy your new **Active Developer Badge** and feel free to give this Repository a ⭐
+ # Enjoy your new **Active Developer Badge** and feel free to give this Repository a ⭐
 
 *Frost☃️
