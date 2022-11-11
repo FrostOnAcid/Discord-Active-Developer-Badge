@@ -19,6 +19,10 @@
   2. Create a new Discord Server & enable "Community Server" in the Settings.
   3. Visit the [Discord Developer Portal](https://discord.com/developers/applications) and create a new Application.
   4. Select "Bot" at your new Application and get your Bot Token.
+  5. Invite the Bot to your server by copying this link and changing the Application ID to your own.
+  
+  ``https://discord.com/oauth2/authorize?client_id={applicationid}&scope=bot%20applications.commands&permissions=105227086912``
+  
   5. Open a Command Prompt at the Repository Directory on your PC.
   6. Launch the bot by running the following command: "node ."
   7. After the Bot is running, enter your Token by right clicking on your mouse, once the Bots prompt you to enter it.
