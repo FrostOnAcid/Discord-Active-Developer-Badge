@@ -1,7 +1,8 @@
 # Discord-Active-Developer-Badge
-You wanna unlock the NEW Discord **Active Developer Badge** on your profile, just like me?!
-
 <div align="center">
+👇You wanna unlock the NEW Discord Active Developer Badge on your profile, just like me?👇
+
+
 <h2> <img src="https://media.discordapp.net/attachments/1040315775082319942/1040645521754292224/image.png?width=325&height=671"> </h2>
 
   
