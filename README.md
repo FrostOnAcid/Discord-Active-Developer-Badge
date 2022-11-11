@@ -35,5 +35,8 @@
 The last step is to visit the [Active Developer Page](https://discord.com/developers/active-developer) and claim your Badge! (Allow up to 24hr proccessing time after you ran the command to be eligible.)
   
  # Enjoy your new **Active Developer Badge** and feel free to give this Repository a ⭐
+ 
+ # Official YouTube Tutorial
+[![Official YouTube Tutorial](https://media.discordapp.net/attachments/1020084272868110450/1040716643233443953/get_discord_active_developer_badge_now_get_the_new_discord_badge_active_developer_badge_discord_active_dev_badge_20222.png)](https://www.youtube.com/watch?v=vCQtTywrGDk)
 
 *Frost☃️
