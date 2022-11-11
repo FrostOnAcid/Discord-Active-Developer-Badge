@@ -1,0 +1,26 @@
+{
+  "name": "discord-active-developer-badge",
+  "version": "1.0.0",
+  "description": "Unlock the new Active Discord Developer Badge!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "hello world."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrostOnAcid/Discord-Active-Developer-Badge"
+  },
+  "author": "Frost",
+  "bugs": {
+    "url": "https://github.com/FrostOnAcid/Discord-Active-Developer-Badge/issues"
+  },
+  "homepage": "https://github.com/FrostOnAcid/Discord-Active-Developer-Badge#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "node-fetch": "^2.6.7",
+    "prompt-sync": "^4.2.0",
+    "readline": "^1.3.0"
+  }
+}
