@@ -7,12 +7,10 @@ const rl = readline.createInterface({
 });
 
 rl.question('Please enter your Token: ', function (token) {
-  rl.question('Please enter your Application ID: ', function (appid) {
 
     client.login(token)
     const json = require('./options/commands.json')
     rl.close();
-  });
 });
 
 client.on('ready', () => 
@@ -20,7 +18,6 @@ client.on('ready', () =>
   const json = require('./options/commands.json')
 
   client.api.applications(client.user.id)
-      .guilds('1040570981435064370')
       .commands.post({data: json['BADGE']})
 })
 
