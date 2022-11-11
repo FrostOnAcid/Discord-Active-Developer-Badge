@@ -23,10 +23,10 @@
   
   ``https://discord.com/oauth2/authorize?client_id={applicationid}&scope=bot%20applications.commands&permissions=105227086912``
   
-  5. Open a Command Prompt at the Repository Directory on your PC.
-  6. Launch the bot by running the following command: "node ."
-  7. After the Bot is running, enter your Token by right clicking on your mouse, once the Bots prompt you to enter it.
-  8. Go to your just created Community Discord Server and use the /badge command. 
+  6. Open a Command Prompt at the Repository Directory on your PC.
+  7. Launch the bot by running the following command: "node ."
+  8. After the Bot is running, enter your Token by right clicking on your mouse, once the Bots prompt you to enter it.
+  9. Go to your just created Community Discord Server and use the /badge command. 
   
   <div align="center">
   
