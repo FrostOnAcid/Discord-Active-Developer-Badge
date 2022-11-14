@@ -1,6 +1,6 @@
 <div align="center">
 
-# Discord-Active-Developer-Badge
+# Discord Active Developer Badge
 
 👇You wanna unlock the NEW Discord Active Developer Badge on your profile, just like me?👇
 
